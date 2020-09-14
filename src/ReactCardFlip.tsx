@@ -70,7 +70,6 @@ const ReactCardFlip: React.FC<ReactFlipCardProps> = (props) => {
     flipper: {
       height: '100%',
       position: 'relative',
-      width: '100%',
     },
     front: {
       WebkitBackfaceVisibility: 'hidden',
